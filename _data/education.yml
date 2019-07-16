@@ -1,10 +1,6 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Beihang University
+  dates: 2013 - 2017
+  qualification: B.S. in Computer Science
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    During my time at Beihang University, I spent an enjoyful time. In the Principle of Computer Organization Experiment, I gained experience in managing a assistant team and cooperating with others. I participated on developing some small tools for teaching.(e.g. A python script for crawling and analysing the connection between students' activity in the discussion forums and their grade. At the same time, I came up with several teaching ideas to improve the enthusiasm of students. With imporving the comprehension of the execution of CPU, I solved nearly a hundred and half problems from students in discussion forums.
