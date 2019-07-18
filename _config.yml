@@ -24,9 +24,11 @@ linkedin_username: siviltaram
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Qian.
+  Hi, my name's Qian. I am current a second-year PhD candidate in Beihang University.
 
-  I am most skilled in: <mark>Natural Lnaugage Processing</mark> and <mark>Semantic Parsing</mark> and <mark>Conversation</mark>
+  My reserach interests includes: <mark>Natural Lnaugage Processing</mark>, <mark>Semantic Parsing</mark> and <mark>Conversation</mark>
+
+  I am most skilled on: <mark>PyTorch</mark>, <mark>Python</mark>, <mark>C#/Java</mark>, <mark>Verilog</mark> etc.
 
 # Projects Section
 # projects_title: Projects
@@ -38,8 +40,11 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
+  I love education and I am devoted into it, even when I am just an undergraduate student. I set up an teaching organization S.T.A.R, the first organization to recruit and manage undergraduate teaching assistants.
+  
+  In the past five years, I have been hired as (Distant) Teaching Assistants on at least 8 courses in different schools. It makes sense for me to encourage others to gain insights from courses.
   # Alongside my interests in networks and software engineering some of my other interests and hobbies are:
   #  - Rock climbing
   #  - Gaming
@@ -47,7 +52,7 @@ more_content: | # this will include new lines to allow paragraphs
   #  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme

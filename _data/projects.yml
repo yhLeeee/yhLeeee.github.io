@@ -1,8 +1,11 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Operation system guidebook
+  github: SivilTaram/BUAAOS-guide-book
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is the first book I write and it has been applied as the OFFICAL guidebook in the operating system course in Beihang University.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The second semster of sophomore, luckily, I finish overall experiments in operating system, and gains the full credit. Transplanted from MIT 6.828, Our experiments are based on MIPS architecture. Although the difficulty Level reaches the same as MIT, the accompanying teaching materials are not ideal.
+    
+    Hereupon, I start to write the guide book, in coperation with two friends. After absoring the key insights from lots of english documents, along with our rich experience in the experiment, we finally make the guidebook. The book is typesetted by Latex, owing one hundred and forty pages. At the same time, we polish the experiment codes and add comments on every necessary function as a supplement.
+
+    As a leader, I make a systematic plan, making the progress of writing carried smoothly. As a writer, I write the 2nd, 4th, 6th chapters and the guide for git in a humorous tone.
