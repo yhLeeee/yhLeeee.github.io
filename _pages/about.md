@@ -18,7 +18,7 @@ In the past few years, my reserach interest focuses on **semantic parsing** and 
 
 I am also familiar with reinforcement learning such as **Policy Gradient**, **Self-play**, **Hierarchical Reinforcement Learning**, which have been successfully employed on our reserach projects.
 
-Outside of seeking Ph.D., I am passionate as Teaching Assistants for several courses, including Computer Organization, Operating System and Software Engineering. I have led the writing of an [guidebook](https://github.com/SivilTaram/BUAAOS-guide-book) for Operating System (in Chinese), and developed a FAQ intelligent for Computer Organization.
+Outside of seeking Ph.D., I am passionate as Teaching Assistants for several courses, including Computer Organization, Operating System and Software Engineering. I have led the writing of an [guidebook](https://github.com/SivilTaram/BUAAOS-guide-book) for Operating System (in Chinese), and developed a FAQ bot for teaching.
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News
 
@@ -28,4 +28,6 @@ Outside of seeking Ph.D., I am passionate as Teaching Assistants for several cou
 * 1 paper got accepted by ACL 2020.
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Concat
-Please feel free to concat me via my email (please see left) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
+Please feel free to concat me via my email (please see left) if you are interested in our papers, my experience, or you just have any problem on research which I may help. 
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=ttkJZYV_JYWsZaLTPSNNB_KpBVL7-FpSVOfSmz5CsC8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
