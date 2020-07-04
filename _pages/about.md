@@ -10,7 +10,7 @@ redirect_from:
 
 ## <i class="fa fa-ft fa-info-circle"></i>&nbsp;&nbsp;About Me
 
-Glad to see you here. My name is Qian Liu, currently a third-year Ph.D. in Beihang University. My Ph.D. advisor is **Bin Zhou**. Meawhile, I am also very lucky to partipate the joint program with Microsoft Reserach Asia, co-advised by **Jian-Guang Lou**.
+Glad to see you here. My name is Qian Liu, currently a third-year Ph.D. in Beihang University. My Ph.D. advisor is **Bin Zhou**. Meawhile, I am also very lucky to participate the joint program with Microsoft Reserach Asia, co-advised by **Jian-Guang Lou**.
 
 In the past few years, my reserach interest focuses on **semantic parsing** and **dialogue**:
 * **Semantic Parsing**: *focusing on techniques to improve conversational semantic parsing*
