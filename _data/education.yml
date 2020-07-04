@@ -1,6 +1,0 @@
-- layout: left
-  name: Beihang University
-  dates: 2013 - 2017
-  qualification: B.S. in Computer Science
-  description: | # this will include new lines to allow paragraphs
-    During my time at Beihang University, I spent an enjoyful time. In the Principle of Computer Organization Experiment, I gained experience in managing a assistant team and cooperating with others. I participated on developing some small tools for teaching.(e.g. A python script for crawling and analysing the connection between students' activity in the discussion forums and their grade. At the same time, I came up with several teaching ideas to improve the enthusiasm of students. With imporving the comprehension of the execution of CPU, I solved nearly a hundred and half problems from students in discussion forums.
