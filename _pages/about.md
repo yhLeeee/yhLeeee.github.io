@@ -23,7 +23,7 @@ Outside of seeking Ph.D., I am passionate as Teaching Assistants for several cou
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News
 
 * 3 papers have been submitted to EMNLP 2020.
-* 1 paper has been submitted to NeuralIPS 2020.
+* 1 paper has been submitted to NeurIPS 2020.
 * 2 papers got accepted by IJCAI 2020.
 * 1 paper got accepted by ACL 2020.
 
