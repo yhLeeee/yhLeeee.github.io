@@ -2,7 +2,7 @@
 title: "Incomplete Utterance Rewriting as Semantic Segmentation"
 collection: publications
 permalink: /publication/2020-09-16-incomplete
-excerpt: '**Qian Liu**, Bei Chen, Jian-Guang Lou, Bin Zhou, Dongmei Zhang<br>In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**NeurIPS-2020**)*'
+excerpt: '**Qian Liu**, Bei Chen, Jian-Guang Lou, Bin Zhou, Dongmei Zhang<br>In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP-2020**)*'
 date: 2020-09-16
 venue:
 ---

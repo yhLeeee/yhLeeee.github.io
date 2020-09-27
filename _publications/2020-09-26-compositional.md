@@ -2,7 +2,7 @@
 title: "Compositionality Generalization by Learning Analytical Expressions"
 collection: publications
 permalink: /publication/2020-09-26-compositional
-excerpt: '**Qian Liu**\*, Shengnan An\*, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang<br> In *Advances in Neural Information Processing Systems 33 ((**EMNLP-2020**))*'
+excerpt: '**Qian Liu**\*, Shengnan An\*, Jian-Guang Lou, Bei Chen, Zeqi Lin, Yan Gao, Bin Zhou, Nanning Zheng, Dongmei Zhang<br> In *Advances in Neural Information Processing Systems 33 (**NeurIPS-2020**)*'
 date: 2020-09-26
 venue:
 ---
