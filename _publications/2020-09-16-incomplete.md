@@ -9,9 +9,6 @@ venue:
 
 \[[PAPER](https://arxiv.org/pdf/2009.13166.pdf)\] \[[CODE](https://github.com/microsoft/ContextualSP/tree/master/incomplete_utterance_rewriting)\] \[[MEDIA](https://mp.weixin.qq.com/s/a5N2INlQbMiQ9sfVcyc2kA)\]
 
-Introduction
-===
-
 ![Demo](/images/incomplete-demo.jpg)
 
 Recent years the task of incomplete utterance rewriting has raised a large attention. Previous works usually shape it as a machine translation task and employ sequence to sequence based architecture with copy mechanism. In this paper, we present a novel and extensive approach, which formulates it as a semantic segmentation task. Instead of generating from scratch, such a formulation introduces edit operations and shapes the problem as prediction of a word-level edit matrix. Benefiting from being able to capture both local and global information, our approach achieves state-of-the-art performance on several public datasets. Furthermore, our approach is four times faster than the standard approach in inference.

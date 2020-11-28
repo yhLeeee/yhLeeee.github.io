@@ -9,8 +9,6 @@ venue:
 
 \[[PAPER](https://www.aclweb.org/anthology/2020.emnlp-main.118.pdf)\] \[[CODE](https://github.com/JasperGuo/Unimer)\]
 
-Introduction
-===
 
 ![Demo](/images/benchmarking-demo.jpg)
 

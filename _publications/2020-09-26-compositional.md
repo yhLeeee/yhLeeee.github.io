@@ -9,8 +9,7 @@ venue:
 
 \[[PAPER](https://arxiv.org/pdf/2006.10627.pdf)\] \[[CODE](https://github.com/microsoft/ContextualSP/tree/master/compositional_generalization)\] \[[MEDIA](https://mp.weixin.qq.com/s/8Cv76I4SUfnPm88cAqrBRg)\]
 
-Introduction
-===
+
 
 ![Demo](/images/compositional-demo.JPG)
 
