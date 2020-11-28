@@ -7,7 +7,7 @@ date: 2020-09-26
 venue:
 ---
 
-\[[PAPER](https://arxiv.org/pdf/2006.10627.pdf)\]
+\[[PAPER](https://arxiv.org/pdf/2006.10627.pdf)\] \[[CODE](https://github.com/microsoft/ContextualSP/tree/master/compositional_generalization)\] \[[MEDIA](https://mp.weixin.qq.com/s/8Cv76I4SUfnPm88cAqrBRg)\]
 
 Introduction
 ===
