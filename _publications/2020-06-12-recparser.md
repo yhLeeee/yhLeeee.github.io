@@ -9,8 +9,6 @@ venue:
 
 \[[PAPER](https://www.microsoft.com/en-us/research/uploads/prod/2020/06/RECPARSER.pdf)\]
 
-Introduction
-===
 
 <div style="width:100%;">
     <img src="/images/recparser-demo.JPG" style=" display: block;height:300px;vertical-align: middle;margin-left: auto;margin-right: auto;">
