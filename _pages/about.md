@@ -33,7 +33,7 @@ Outside of seeking Ph.D., I am passionate as Teaching Assistants for several cou
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact
 
-**I'm now actively seeking job opportunity, please feel free to contact me if there is any!**
+**I'm now actively seeking job opportunities, please feel free to contact me if there is any!**
 
 Please feel free to contact me via my email (left) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
