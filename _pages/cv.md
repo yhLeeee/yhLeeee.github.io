@@ -19,22 +19,21 @@ redirect_from:
 ## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
 
 * 2018.2 - Present: **Microsoft Research Asia**
-  * Research Intern at *Data, Knowledge and Intelligence(DKI)* Group
+  * Research Intern at *Data, Knowledge and Intelligence (DKI)* Group
   * Mentor: [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/) & [Bei Chen](https://www.microsoft.com/en-us/research/people/beichen/)
 
 * 2016.7 - 2017.8: **Microsoft Research Asia**
-  * Research Intern *Big Data Mining(DKI)* Group
+  * Research Intern *Big Data Mining (BDM)* Group
   * Mentor: [Zaiqing Nie](https://scholar.google.com/citations?user=Qg7T6vUAAAAJ) & [Yohn Cao](https://scholar.google.com/citations?user=gvrU1lkAAAAJ)
 
 * 2016.5 - 2016.7: **Microsoft Asia-Pacific R&D Group**
   * Development Intern *Operating System(OS)* Group
-  * Mentor: Jianwei Zhu
+  * Mentor: [Xin Zou](https://www.linkedin.com/in/xinzou) & Jianwei Zhu
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Skills
 
-* **Programming Languages**: Python > C# > JavaScript = C++
-* **Deep Learning Tools**: AllenNLP = PyTorch > Tensorflow
-* **Development**: Machine Learning > Web Development > Front End
+* **Programming Languages**: Python > C# > JavaScript > HTML/CSS = C++
+* **Deep Learning Tools**:  FairSeq > AllenNLP = PyTorch > Transformers > Tensorflow
 
 ## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
   <ul>{% for post in site.publications %}
