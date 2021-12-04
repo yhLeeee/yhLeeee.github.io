@@ -2,7 +2,7 @@
 title: "Benchmarking Meaning Representations in Neural Semantic Parsing"
 collection: publications
 permalink: /publication/2020-11-01-benchmarking
-excerpt: 'Jiaqi Guo, **Qian Liu**, Jian-Guang Lou, Zhenwen Li, Xueqing Liu, Tao Xie, Ting Liu<br>In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP-2020**)'
+excerpt: 'Jiaqi Guo, **Qian Liu**, Jian-Guang Lou, Zhenwen Li, Xueqing Liu, Tao Xie, Ting Liu<br>In *Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing* (**EMNLP-2020**)'
 date: 2020-11-01
 venue:
 ---

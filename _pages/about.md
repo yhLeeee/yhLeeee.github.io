@@ -39,8 +39,6 @@ In 2021, to promote the communication among the Chinese ML & NLP community, we (
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact Me
 
-**I'm now actively seeking job opportunities, please feel free to contact me if there is any!**
-
 Please feel free to contact me via my email (left) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=ttkJZYV_JYWsZaLTPSNNB_KpBVL7-FpSVOfSmz5CsC8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
