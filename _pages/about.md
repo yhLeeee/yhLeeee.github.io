@@ -12,12 +12,11 @@ Glad to see you here. My name is Qian Liu (刘乾), currently a final year Ph.D.
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;I Love Doing Research
 
-In the past few years, my reserach interest focuses on **semantic parsing**, **dialogue** and **compositional generalization**:
-* **Semantic Parsing**: *focusing on techniques to improve conversational semantic parsing*
-* **Dialogue System**: *focusing on solutions for coreference and ellipsis*
-* **Compositional Generalization**: *focusing on algorithms on improving compositional generalization ability of current models*
+In the past few years, my reserach interest focuses on **semantic parsing** and **dialogue**:
+* Semantic Parsing: focusing on techniques to improve semantic parsing.
+* Dialogue System: focusing on solutions for coreference and ellipsis.
 
-I am also familiar with reinforcement learning such as **Policy Gradient**, **Self-play**, **Hierarchical Reinforcement Learning**, which have been successfully employed on our reserach projects.
+I am also familiar with reinforcement learning such as Policy Gradient and Self-play, which have been successfully employed on our reserach projects.
 
 ## <i class="fa fa-ft fa-hands-helping"></i>&nbsp;&nbsp;I Enjoy Imparting Knowledge
 
