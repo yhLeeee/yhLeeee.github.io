@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Qian Liu, currently a final year Ph.D. in Beihang University. My Ph.D. advisor is **Qinping Zhao** & **Bin Zhou**. Meawhile, I am also very lucky to participate the joint program with Microsoft Reserach Asia, co-advised by **Jian-Guang Lou**.
+Glad to see you here. My name is Qian Liu (刘乾), currently a final year Ph.D. in Beihang University. My Ph.D. advisor is **Qinping Zhao** & **Bin Zhou**. Meawhile, I am also very lucky to participate the joint program with Microsoft Reserach Asia, co-advised by **Jian-Guang Lou**.
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;I Love Doing Research
 
