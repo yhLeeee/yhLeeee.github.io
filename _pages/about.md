@@ -8,33 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Qian Liu (刘乾), currently a final year Ph.D. in Beihang University. My Ph.D. advisor is **Qinping Zhao** & **Bin Zhou**. Meawhile, I am also very lucky to participate the joint program with Microsoft Reserach Asia, co-advised by **Jian-Guang Lou**.
+Glad to see you here. My name is Yuhan Li (李宇涵), currently a second-year master in Computer School of Computer science, Nankai University. My master advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
 
-## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;I Love Doing Research
+## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;My research direction
 
-In the past few years, my reserach interest focuses on **semantic parsing** and **dialogue**:
-* Semantic Parsing: focusing on techniques to improve semantic parsing.
-* Dialogue System: focusing on solutions for coreference and ellipsis.
+In the past few years, my reserach interest focuses on **Entity Linking**:
+* Entity Linking: is the process of linking entity mentions appearing in web text with their corresponding entities in a knowledge base.
 
 I am also familiar with reinforcement learning such as Policy Gradient and Self-play, which have been successfully employed on our reserach projects.
 
-## <i class="fa fa-ft fa-hands-helping"></i>&nbsp;&nbsp;I Enjoy Imparting Knowledge
+I also have strong interests in knowledge graphs and their related applications, such as knowledge base question answering, knowledge-aware recommendation, and knowledge base construction.
+
+<!-- ## <i class="fa fa-ft fa-hands-helping"></i>&nbsp;&nbsp;I Enjoy Imparting Knowledge
 
 I am passionate as Teaching Assistants (TA) for several courses, including Computer Organization, Operating System and Software Engineering. I have led the writing of an [guidebook (Chinese)](https://github.com/SivilTaram/BUAAOS-guide-book) for Operating System (in Chinese). 
 
 In 2017, to spread my experience as TA to the younger TAs, I founded the first undergraduate teaching assistant organization **S.T.A.R**. The introduction of S.T.A.R can be found [here (Chinese)](https://www.cnblogs.com/SivilTaram/p/ta_road.html), and the official white paper can be found [here (Chinese)](http://scse.buaa.edu.cn/bkspy/bkspy/S_T_A_Rjftdbps_.htm).
 
-In 2021, to promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the **MLNLP community**. I am also honored to be the first rotating chair of the MLNLP community.
+In 2021, to promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the **MLNLP community**. I am also honored to be the first rotating chair of the MLNLP community. -->
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
-* Honored to share how to find a good research job next week (Chinese), please follow [MLNLP](https://mp.weixin.qq.com/s/gNmzjp0DTBV9poheQDH5jA) for more details!
-* 1 paper has been accepted by ICLR 2022.
-* Honored to present *Unleash the Power of Pre-trained Language Models for Semantic Parsing* for Shanghai Jiaotong University!
-* Signed up for a [twitter](https://twitter.com/sivil_taram) account <i class="fa fa-ft fa-smile"></i>!
-* Excited to host the [first MLNLP Seminar (Chinese)](https://mp.weixin.qq.com/s?__biz=MzU4MTkwNjA0OQ==&mid=2247485257&idx=1&sn=1317f3bfaa5fb1816ad567df3d8c1371&chksm=fd413ca7ca36b5b16f01ac0bfbfc30fc2cb2ab17a3cc192214d5da20bd50f23fea6e678b930b&mpshare=1&scene=1&srcid=120436SB4OM5WR8EBgau5NcH&sharer_sharetime=1638620798062&sharer_shareid=eab69db03dfce45d397b749b3ccc5915&exportkey=A14o0cpp13u4r7fffJ5n97g%3D&pass_ticket=LoOqnuGK6P3460TxpPhPKxXMRbiZEYnwKIaEL%2Fq2rjHdMa2ZtFdyPKgu76ljlzcY&wx_header=0#rd)!
-* 4 papers have been submitted to ACL ARR 2021 November.
-* 1 paper has been submitted to ICLR 2022.
-* Thrilled to announce the MLNLP community, which aims to promote the communication among the Chinese ML & NLP community! More details can be found [here (Chinese)](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg).
+* 2022-06-20, begin to seeking for a Ph.D. position.
+* 2022-06-18, got minor revision for TKDE.
+* 2022-05-25, 1 paper has been submitted to TKDE.
+* 2022-04-21, 1 paper has been accepted by IJCAI 2022.
+* 2022-04-12, join Knowledge Computing Group in MSRA!
+* 2022-01-16, 1 paper has been submitted to IJCAI 2022.
+* 2022-01-08, got major revision for TKDE.
+* 2021-10-17, 1 paper has been submitted to TKDE.
+* 2021-09-24, 1 paper has been accepted by TKDE.
+* 2021-08-25, got minor revision for TKDE.
+* 2021-04-25, 1 paper has been submitted to TKDE.
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact Me
 
