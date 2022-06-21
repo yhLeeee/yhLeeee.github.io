@@ -28,18 +28,18 @@ In 2021, to promote the communication among the Chinese ML & NLP community, we (
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
 * 2022-06-20, begin to seek for a Ph.D. position.
 <!-- * 2022-06-18, got minor revision for TKDE. -->
-* 2022-05-25, 1 paper has been submitted to TKDE.
-* 2022-04-21, 1 paper has been accepted by IJCAI 2022.
-* 2022-04-12, join Knowledge Computing Group in MSRA!
-* 2022-01-16, 1 paper has been submitted to IJCAI 2022.
+* 2022-05-25, one paper has been submitted to TKDE.
+* 2022-04-21, one paper has been accepted by IJCAI 2022.
+* 2022-04-12, join Knowledge Computing Group in MSRA.
+* 2022-01-16, one paper has been submitted to IJCAI 2022.
 <!-- * 2022-01-08, got major revision for TKDE. -->
-* 2021-10-17, 1 paper has been submitted to TKDE.
-* 2021-09-24, 1 paper has been accepted by TKDE.
+* 2021-10-17, one paper has been submitted to TKDE.
+* 2021-09-24, one paper has been accepted by TKDE.
 <!-- * 2021-08-25, got minor revision for TKDE. -->
-* 2021-04-25, 1 paper has been submitted to TKDE.
+* 2021-04-25, one paper has been submitted to TKDE.
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact Me
 
-Please feel free to contact me via my email (left) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
+Please feel free to contact me via my email (left) if you are interested in our papers, my experience, or you just have any problem which I may help.
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=ttkJZYV_JYWsZaLTPSNNB_KpBVL7-FpSVOfSmz5CsC8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
