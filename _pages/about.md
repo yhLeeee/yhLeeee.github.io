@@ -26,6 +26,7 @@ In 2017, to spread my experience as TA to the younger TAs, I founded the first u
 In 2021, to promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the **MLNLP community**. I am also honored to be the first rotating chair of the MLNLP community. -->
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
+* 2022-06-25, one paper has been submitted to EMNLP 2022.
 * 2022-06-20, begin to seek for a Ph.D. position.
 <!-- * 2022-06-18, got minor revision for TKDE. -->
 * 2022-05-25, one paper has been submitted to TKDE.
