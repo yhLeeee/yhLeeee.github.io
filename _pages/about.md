@@ -27,7 +27,7 @@ In 2021, to promote the communication among the Chinese ML & NLP community, we (
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
 * 2022-06-25, one paper has been submitted to EMNLP 2022.
-* 2022-06-20, begin to seek for a Ph.D. position.
+<!-- * 2022-06-20, begin to seek for a Ph.D. position. -->
 <!-- * 2022-06-18, got minor revision for TKDE. -->
 * 2022-05-25, one paper has been submitted to TKDE.
 * 2022-04-21, one paper has been accepted by IJCAI 2022.
