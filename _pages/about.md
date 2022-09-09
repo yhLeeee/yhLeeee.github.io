@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Yuhan Li (李宇涵), currently a second-year master in Computer Science department, Nankai University. My M.S. advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
+Glad to see you here. My name is Yuhan Li (李宇涵), currently a third-year master in Computer Science department, Nankai University. My M.S. advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;My research direction
 
@@ -26,19 +26,19 @@ In 2017, to spread my experience as TA to the younger TAs, I founded the first u
 In 2021, to promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the **MLNLP community**. I am also honored to be the first rotating chair of the MLNLP community. -->
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
-* 2022-08-07, one paper has been accepted by TKDE.
-* 2022-06-25, one paper has been submitted to EMNLP 2022.
+* 2022-08-07, one paper has been accepted by TKDE 2022.
+<!-- * 2022-06-25, one paper has been submitted to EMNLP 2022. -->
 <!-- * 2022-06-20, begin to seek for a Ph.D. position. -->
 <!-- * 2022-06-18, got minor revision for TKDE. -->
-* 2022-05-25, one paper has been submitted to TKDE.
+<!-- * 2022-05-25, one paper has been submitted to TKDE. -->
 * 2022-04-21, one paper has been accepted by IJCAI 2022.
-* 2022-04-12, join Knowledge Computing Group in MSRA.
-* 2022-01-16, one paper has been submitted to IJCAI 2022.
+* 2022-04-12, start internship at MSRA.
+<!-- * 2022-01-16, one paper has been submitted to IJCAI 2022. -->
 <!-- * 2022-01-08, got major revision for TKDE. -->
-* 2021-10-17, one paper has been submitted to TKDE.
-* 2021-09-24, one paper has been accepted by TKDE.
+<!-- * 2021-10-17, one paper has been submitted to TKDE. -->
+* 2021-09-24, one paper has been accepted by TKDE 2021.
 <!-- * 2021-08-25, got minor revision for TKDE. -->
-* 2021-04-25, one paper has been submitted to TKDE.
+<!-- * 2021-04-25, one paper has been submitted to TKDE. -->
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact Me
 
