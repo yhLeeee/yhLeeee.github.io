@@ -35,7 +35,8 @@ redirect_from:
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Honors
 
-* **National Scholarship**
+* **National Scholarship (undergraduate)**
+* **National Scholarship (postgraduate)**
 * **Provincial merit student (two times)**
 
 ## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
