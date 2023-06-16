@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Yuhan Li (李宇涵), currently a third-year master in Computer Science department, Nankai University. My M.S. advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
+Glad to see you here. My name is Yuhan Li (李宇涵), currently a third-year master in Computer Science department, Nankai University. My M.S. advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). I'm going to pursue my Ph.D. degree under the supervision of Professor [Jia Li](https://sites.google.com/view/lijia) at HKUST. Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;My research direction
 
