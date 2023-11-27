@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-\[[CV (PDF)](/files/Curriculum_Vitae.pdf)\]
+\[[CV (PDF)]()\]
 
 ## <i class="fa fa-ft fa-university"></i>&nbsp;&nbsp;Education
 
@@ -32,7 +32,7 @@ redirect_from:
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Skills
 
 * **Programming Languages**: Python, C++, Java, HTML/CSS/JS 
-* **Deep Learning Tools**:  PyTorch, Transformers
+* **Deep Learning Tools**:  PyTorch, Transformers, PyG, DGL
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Honors
 

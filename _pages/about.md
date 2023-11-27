@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<img src=\"/images/nku.png\" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
+title: "<img src=\"/images/hkustgz.png\" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Glad to see you here. My name is Yuhan Li (李宇涵), currently a third-year master in Computer Science department, Nankai University. My M.S. advisor is [Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). I'm going to pursue my Ph.D. degree under the supervision of Professor [Jia Li](https://sites.google.com/view/lijia) at HKUST. Meanwhile, I am also very lucky to be a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
+Glad to see you here. My name is Yuhan Li (李宇涵), currently a first-year doctoral student at HKUST(GZ), advised by [Prof. Jia Li](https://sites.google.com/view/lijia). My research interests focus on natural language processing and graph learning. I received my Master degree from Computer Science department, Nankai University, advised by [Prof. Wei Shen](https://cc.nankai.edu.cn/2020/0507/c13620a271227/page.htm). I was a research intern in Knowledge Computing Group, Microsoft Reserach Asia, co-advised by [Zhiwei Yu](https://www.microsoft.com/en-us/research/people/zhiwyu/) and [Börje Karlsson](https://www.microsoft.com/en-us/research/people/borjekar/).
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;My research direction
 
@@ -26,6 +26,8 @@ In 2017, to spread my experience as TA to the younger TAs, I founded the first u
 In 2021, to promote the communication among the Chinese ML & NLP community, we (along with other 11 young scholars worldwide) founded the **MLNLP community**. I am also honored to be the first rotating chair of the MLNLP community. -->
 
 ## <i class="fa fa-ft fa-fire"></i>&nbsp;&nbsp;News About Me
+* 2023-11-21, our thoughts and survey about Graph Meets LLM is at this [Repo](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks) and [PDF](https://arxiv.org/abs/2311.12399). 
+* 2023-10-08, one paper has been accepted by EMNLP Findings 2023.
 * 2022-10-06, one paper has been accepted by EMNLP 2022.
 * 2022-08-07, one paper has been accepted by TKDE 2022.
 <!-- * 2022-06-25, one paper has been submitted to EMNLP 2022. -->
